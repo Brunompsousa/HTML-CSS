@@ -1,0 +1,40 @@
+body{
+    font: Arial;
+    font-size: 15px;
+}
+
+table{
+    align:center;
+    border:5px solid orangered;
+    border-spacing:10px;
+    width:50%;
+    height:70%;
+    
+    
+    
+}
+
+tr , th, td{
+    border:1px solid orangered;
+    
+}
+
+td{
+    text-align:center;
+}
+
+td.pintado{
+    background-color: orange;
+}
+
+td#muitobom{
+    color: blue;
+}
+
+td#baixo{
+    vertical-align: bottom;
+}
+
+td#cima{
+    vertical-align:top;
+}
