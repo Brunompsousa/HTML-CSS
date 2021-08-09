@@ -1,0 +1,54 @@
+a.l1:link{
+    color: blue
+}
+
+a.l1:visited{
+    color: red;
+}
+
+a.l1:hover{
+    color: pink;
+}
+
+a.l1:active{
+    color: green;
+}
+
+
+a.l2:link{
+    color: blue
+}
+
+a.l2:visited{
+    color: red;
+}
+
+a.l2:hover{
+    background-color: yellow;
+}
+
+
+a.l3:link{
+    color: red;
+}
+
+a.l3:visited{
+    color: blue;
+}
+
+a.l3:hover{
+    font-size: 150%;
+}
+
+
+a.l4:link{
+    color: red;
+}
+
+a.l4:visited{
+    color: blue;
+}
+
+a.l4:hover{
+    font-style: comic sans ms;
+}

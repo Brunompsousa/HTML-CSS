@@ -1,0 +1,23 @@
+
+.i1{
+    height: 150;
+    width: 150;
+}
+
+.i2{
+    width: 150;
+    height: 250;
+}
+
+.a{
+    
+}
+
+.b{
+    line-height: 0.5;
+}
+
+.c{
+    line-height: 1.3;
+    border-style: dotted;
+}

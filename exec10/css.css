@@ -1,0 +1,63 @@
+.a{
+    cursor: auto;
+}
+
+.b{
+    cursor: crosshair;
+}
+
+.c{
+    cursor: default;
+}
+
+.d{
+    cursor: pointer;
+}
+
+.e{
+    cursor: move;
+}
+
+.f{
+    cursor: e-resize;
+}
+
+.g{
+    cursor: ne-resize;
+}
+
+.h{
+    cursor: nw-resize;
+}
+
+.i{
+    cursor: n-resize;
+}
+
+.j{
+    cursor: se-resize;
+}
+
+.k{
+    cursor: sw-resize;
+}
+
+.l{
+    cursor: s-resize;
+}
+
+.m{
+    cursor: w-resize;
+}
+
+.n{
+    cursor: text;
+}
+
+.o{
+    cursor: wait;
+}
+
+.p{
+    cursor: help;
+}
